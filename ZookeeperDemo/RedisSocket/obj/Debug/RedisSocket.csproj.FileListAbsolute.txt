@@ -1,0 +1,6 @@
+E:\src\Zookeeper\ZookeeperDemo\RedisSocket\bin\Debug\RedisSocket.exe.config
+E:\src\Zookeeper\ZookeeperDemo\RedisSocket\bin\Debug\RedisSocket.exe
+E:\src\Zookeeper\ZookeeperDemo\RedisSocket\bin\Debug\RedisSocket.pdb
+E:\src\Zookeeper\ZookeeperDemo\RedisSocket\obj\Debug\RedisSocket.csprojResolveAssemblyReference.cache
+E:\src\Zookeeper\ZookeeperDemo\RedisSocket\obj\Debug\RedisSocket.exe
+E:\src\Zookeeper\ZookeeperDemo\RedisSocket\obj\Debug\RedisSocket.pdb

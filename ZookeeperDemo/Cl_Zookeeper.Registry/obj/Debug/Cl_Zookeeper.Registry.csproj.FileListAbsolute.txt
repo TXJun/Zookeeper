@@ -1,0 +1,13 @@
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\Cl_Zookeeper.Registry\bin\Debug\Cl_Zookeeper.Registry.dll
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\Cl_Zookeeper.Registry\bin\Debug\Cl_Zookeeper.Registry.pdb
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\Cl_Zookeeper.Registry\bin\Debug\log4net.dll
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\Cl_Zookeeper.Registry\bin\Debug\Mfg.Comm.Log.LogHelper.dll
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\Cl_Zookeeper.Registry\bin\Debug\ZooKeeperNet.dll
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\Cl_Zookeeper.Registry\bin\Debug\Mfg.Comm.Log.LogHelper.xml
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\Cl_Zookeeper.Registry\obj\Debug\Cl_Zookeeper.Registry.dll
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\Cl_Zookeeper.Registry\obj\Debug\Cl_Zookeeper.Registry.pdb
+E:\src\Zookeeper\ZookeeperDemo\Cl_Zookeeper.Registry\bin\Debug\Cl_Zookeeper.Registry.dll
+E:\src\Zookeeper\ZookeeperDemo\Cl_Zookeeper.Registry\bin\Debug\Cl_Zookeeper.Registry.pdb
+E:\src\Zookeeper\ZookeeperDemo\Cl_Zookeeper.Registry\bin\Debug\ZooKeeperNet.dll
+E:\src\Zookeeper\ZookeeperDemo\Cl_Zookeeper.Registry\obj\Debug\Cl_Zookeeper.Registry.dll
+E:\src\Zookeeper\ZookeeperDemo\Cl_Zookeeper.Registry\obj\Debug\Cl_Zookeeper.Registry.pdb

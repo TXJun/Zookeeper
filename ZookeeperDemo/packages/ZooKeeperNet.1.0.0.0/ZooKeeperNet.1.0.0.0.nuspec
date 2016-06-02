@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ZooKeeperNet</id>
+    <version>1.0.0.0</version>
+    <title>Org.Apache.ZooKeeper</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <projectUrl>https://github.com/ewhauser/zookeeper</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ZooKeeper client for .NET</description>
+    <releaseNotes />
+    <copyright>Copyright 2012</copyright>
+    <language />
+    <dependencies>
+      <dependency id="log4net" version="2.0.0" />
+    </dependencies>
+  </metadata>
+</package>

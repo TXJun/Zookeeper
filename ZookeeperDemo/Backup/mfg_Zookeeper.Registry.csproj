@@ -1,0 +1,35 @@
+<VisualStudioProject>
+  <CSHARP ProjectType="local" ProjectVersion="7.10.3077" SchemaVersion="2.0" ProjectGuid="7e302363-12dd-4219-bafd-46222c8c568e">
+    <Build>
+      <Settings AssemblyName="mfg_Zookeeper.Registry" DefaultClientScript="JScript" DefaultHTMLPageLayout="Grid" DefaultTargetSchema="IE50" DelaySign="false" OutputType="Library">
+        <Config Name="Debug" AllowUnsafeBlocks="true" DefineConstants="DEBUG;TRACE" DebugSymbols="true" IncrementalBuild="false" NoStdLib="false" Optimize="false" OutputPath="bin\Debug\" WarningLevel="4" />
+        <Config Name="Release" AllowUnsafeBlocks="true" DefineConstants="TRACE" DebugSymbols="false" IncrementalBuild="false" NoStdLib="false" Optimize="true" OutputPath="bin\Release\" WarningLevel="4" />
+      </Settings>
+      <References>
+        <Reference Name="MfgZooKeeperNet" AssemblyName="MfgZooKeeperNet" />
+        <Reference Name="Mfg.Comm.Log.LogHelper" AssemblyName="Mfg.Comm.Log.LogHelper" />
+        <Reference Name="log4net" AssemblyName="log4net" />
+        <Reference Name="System.Core" AssemblyName="System.Core" />
+      </References>
+    </Build>
+    <Files>
+      <Include>
+        <File RelPath="AssemblyInfo.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Global.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="mfg_Zookeeper\Registry\Entity\EntityBase.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="mfg_Zookeeper\Registry\Entity\ConsumeBase.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="mfg_Zookeeper\Registry\Entity\ClusterType.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="mfg_Zookeeper\Registry\Entity\Category.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="mfg_Zookeeper\Registry\Entity\MfgNodePath.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="mfg_Zookeeper\Registry\Entity\ProviderBase.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="mfg_Zookeeper\Registry\ZookeeperRegistryFactory.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="mfg_Zookeeper\Registry\ZooKeeper\IZookeeperRegistry.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="mfg_Zookeeper\Registry\ZooKeeper\IListener.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="mfg_Zookeeper\Registry\Listener\AbstractDataListener.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="mfg_Zookeeper\Registry\Listener\AbstractStateListener.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="mfg_Zookeeper\Registry\ZookeeperRegistry.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="mfg_Zookeeper\Registry\Listener\AbstractChildListener.cs" SubType="Code" BuildAction="Compile" />
+      </Include>
+    </Files>
+  </CSHARP>
+</VisualStudioProject>

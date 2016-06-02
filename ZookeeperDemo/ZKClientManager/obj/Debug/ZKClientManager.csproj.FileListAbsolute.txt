@@ -1,0 +1,12 @@
+E:\src\Zookeeper\ZookeeperDemo\ZKClientManager\bin\Debug\ZKClientManager.exe.config
+E:\src\Zookeeper\ZookeeperDemo\ZKClientManager\bin\Debug\ZKClientManager.exe
+E:\src\Zookeeper\ZookeeperDemo\ZKClientManager\bin\Debug\ZKClientManager.pdb
+E:\src\Zookeeper\ZookeeperDemo\ZKClientManager\bin\Debug\log4net.dll
+E:\src\Zookeeper\ZookeeperDemo\ZKClientManager\bin\Debug\ZooKeeperNet.dll
+E:\src\Zookeeper\ZookeeperDemo\ZKClientManager\bin\Debug\log4net.xml
+E:\src\Zookeeper\ZookeeperDemo\ZKClientManager\obj\Debug\ZKClientManager.csprojResolveAssemblyReference.cache
+E:\src\Zookeeper\ZookeeperDemo\ZKClientManager\obj\Debug\ZKClientManager.Form1.resources
+E:\src\Zookeeper\ZookeeperDemo\ZKClientManager\obj\Debug\ZKClientManager.Properties.Resources.resources
+E:\src\Zookeeper\ZookeeperDemo\ZKClientManager\obj\Debug\ZKClientManager.csproj.GenerateResource.Cache
+E:\src\Zookeeper\ZookeeperDemo\ZKClientManager\obj\Debug\ZKClientManager.exe
+E:\src\Zookeeper\ZookeeperDemo\ZKClientManager\obj\Debug\ZKClientManager.pdb

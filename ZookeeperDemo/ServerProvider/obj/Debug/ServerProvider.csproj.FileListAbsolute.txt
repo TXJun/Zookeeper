@@ -1,0 +1,10 @@
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\ServerProvider\bin\Debug\ServerProvider.exe
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\ServerProvider\bin\Debug\ServerProvider.pdb
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\ServerProvider\obj\Debug\ServerProvider.exe
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\ServerProvider\obj\Debug\ServerProvider.pdb
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\ServerProvider\obj\Debug\ServerProvider.csprojResolveAssemblyReference.cache
+E:\src\Zookeeper\ZookeeperDemo\ServerProvider\bin\Debug\ServerProvider.exe
+E:\src\Zookeeper\ZookeeperDemo\ServerProvider\bin\Debug\ServerProvider.pdb
+E:\src\Zookeeper\ZookeeperDemo\ServerProvider\obj\Debug\ServerProvider.csprojResolveAssemblyReference.cache
+E:\src\Zookeeper\ZookeeperDemo\ServerProvider\obj\Debug\ServerProvider.exe
+E:\src\Zookeeper\ZookeeperDemo\ServerProvider\obj\Debug\ServerProvider.pdb

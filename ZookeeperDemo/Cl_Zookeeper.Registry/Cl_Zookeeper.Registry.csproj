@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3AADD1BB-3DBC-45ED-873B-BE934DB16A8B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Cl_Zookeeper.Registry</RootNamespace>
+    <AssemblyName>Cl_Zookeeper.Registry</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net">
+      <HintPath>\\192.168.180.22\mfgDLL引用\Web\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Mfg.Comm.Log.LogHelper">
+      <HintPath>\\192.168.180.22\mfgDLL引用\Web\Mfg.Comm.Log.LogHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZooKeeperNet">
+      <HintPath>..\packages\ZooKeeper.Net.3.4.6.2\lib\net40\ZooKeeperNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Arithmetic\RoundRobinLocator.cs" />
+    <Compile Include="Entity\Category.cs" />
+    <Compile Include="Arithmetic\KetamaNodeLocator.cs" />
+    <Compile Include="Entity\ClusterInfo.cs" />
+    <Compile Include="Entity\ConsumeBase.cs" />
+    <Compile Include="Entity\EntityBase.cs" />
+    <Compile Include="Entity\HostInfo.cs" />
+    <Compile Include="Entity\NodePath.cs" />
+    <Compile Include="Entity\ProviderBase.cs" />
+    <Compile Include="Listener\AbstractChildListener.cs" />
+    <Compile Include="Listener\AbstractDataListener.cs" />
+    <Compile Include="Listener\AbstractStateListener.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ZookeeperRegistry.cs" />
+    <Compile Include="ZookeeperRegistryFactory.cs" />
+    <Compile Include="ZooKeeper\IListener.cs" />
+    <Compile Include="ZooKeeper\IZookeeperRegistry.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

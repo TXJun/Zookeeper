@@ -1,0 +1,16 @@
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\KeeperNet\bin\Debug\KeeperNet.dll
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\KeeperNet\bin\Debug\KeeperNet.pdb
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\KeeperNet\bin\Debug\log4net.dll
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\KeeperNet\bin\Debug\ZooKeeperNet.dll
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\KeeperNet\bin\Debug\log4net.xml
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\KeeperNet\obj\Debug\KeeperNet.dll
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\KeeperNet\obj\Debug\KeeperNet.pdb
+E:\唐晓军-个人文件\zookeeper\ZookeeperDemo\KeeperNet\obj\Debug\KeeperNet.csprojResolveAssemblyReference.cache
+E:\src\Zookeeper\ZookeeperDemo\KeeperNet\bin\Debug\KeeperNet.dll
+E:\src\Zookeeper\ZookeeperDemo\KeeperNet\bin\Debug\KeeperNet.pdb
+E:\src\Zookeeper\ZookeeperDemo\KeeperNet\bin\Debug\log4net.dll
+E:\src\Zookeeper\ZookeeperDemo\KeeperNet\bin\Debug\ZooKeeperNet.dll
+E:\src\Zookeeper\ZookeeperDemo\KeeperNet\bin\Debug\log4net.xml
+E:\src\Zookeeper\ZookeeperDemo\KeeperNet\obj\Debug\KeeperNet.csprojResolveAssemblyReference.cache
+E:\src\Zookeeper\ZookeeperDemo\KeeperNet\obj\Debug\KeeperNet.dll
+E:\src\Zookeeper\ZookeeperDemo\KeeperNet\obj\Debug\KeeperNet.pdb

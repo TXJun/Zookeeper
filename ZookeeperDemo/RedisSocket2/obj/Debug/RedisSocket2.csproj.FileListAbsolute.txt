@@ -1,0 +1,8 @@
+E:\src\Zookeeper\ZookeeperDemo\RedisSocket2\bin\Debug\RedisSocket2.exe
+E:\src\Zookeeper\ZookeeperDemo\RedisSocket2\bin\Debug\RedisSocket2.pdb
+E:\src\Zookeeper\ZookeeperDemo\RedisSocket2\bin\Debug\FastSocket.Client.dll
+E:\src\Zookeeper\ZookeeperDemo\RedisSocket2\bin\Debug\FastSocket.SocketBase.dll
+E:\src\Zookeeper\ZookeeperDemo\RedisSocket2\obj\Debug\RedisSocket2.csprojResolveAssemblyReference.cache
+E:\src\Zookeeper\ZookeeperDemo\RedisSocket2\obj\Debug\RedisSocket2.exe
+E:\src\Zookeeper\ZookeeperDemo\RedisSocket2\obj\Debug\RedisSocket2.pdb
+E:\src\Zookeeper\ZookeeperDemo\RedisSocket2\bin\Debug\RedisSocket2.exe.config
